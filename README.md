@@ -1,2 +1,2 @@
-# U+1F9AB qq
-<img align='left' src='https://media.tenor.com/GiaVcMGwjUwAAAAC/death-note.gif' width='400'>
+## qq
+<img height="200px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kurech&layout=compact&theme=vision-friendly-dark" />
