@@ -1,2 +1,1 @@
-### Hi there 👋
-<img align='right' src='https://media.tenor.com/GiaVcMGwjUwAAAAC/death-note.gif' width='200'>
+<img align='left' src='https://media.tenor.com/GiaVcMGwjUwAAAAC/death-note.gif' width='400'>
